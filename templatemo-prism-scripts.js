@@ -405,8 +405,8 @@ function animateCounter(element) {
 
 // Intersection Observer for stats animation
 const observerOptions = {
-    threshold: 0.5,
-    rootMargin: '0px 0px -100px 0px'
+    threshold: 0.2,
+    rootMargin: '0px'
 };
 
 const observer = new IntersectionObserver((entries) => {
