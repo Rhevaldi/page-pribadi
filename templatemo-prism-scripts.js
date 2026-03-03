@@ -37,7 +37,7 @@ const portfolioData = [
         id: 4,
         title: 'Sistem Informasi UMKM',
         description: 'Sistem Informasi UMKM berbasis web yang dirancang untuk membantu pelaku usaha dalam mengelola data produk, transaksi penjualan, laporan keuangan, serta manajemen pelanggan secara digital.',
-        image: 'images/project4.jpg',
+        image: 'images/project4.png',
         tech: ['Laravel', 'MySQL', 'Bootstrap', 'JavaScript']
     },
 ];
