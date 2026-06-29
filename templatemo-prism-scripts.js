@@ -40,6 +40,13 @@ const portfolioData = [
         image: 'images/project4.png',
         tech: ['Laravel', 'MySQL', 'Bootstrap', 'JavaScript']
     },
+    {
+        id: 5,
+        title: 'Sistem Informasi RT Digital (SIRT)',
+        description: 'Aplikasi berbasis web untuk digitalisasi administrasi RT, meliputi pengelolaan data warga, kartu keluarga, surat menyurat, iuran, pembayaran, pengaduan, dan kegiatan warga dengan sistem hak akses multi-user.',
+        image: 'images/project5.png',
+        tech: ['Laravel', 'MySQL', 'Bootstrap', 'JavaScript']
+    },
 ];
 // Skills data
 const skillsData = [
